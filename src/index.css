@@ -11,15 +11,3 @@ body {
   margin: 0;
   padding: 0;
 }
-
-.error-message {
-  color: red;
-}
-
-.review-form {
-  width: 20em;
-}
-
-.review-form .field {
-  margin-bottom: 1em;
-}
