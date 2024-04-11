@@ -15,12 +15,14 @@
     "@mui/material": "^5.11.0",
     "@reduxjs/toolkit": "^1.9.5",
     "axios": "^1.6.7",
+    "formik": "^2.4.5",
     "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router": "^6.11.1",
     "react-router-dom": "^6.11.1",
-    "react-use": "^17.4.0"
+    "react-use": "^17.4.0",
+    "yup": "^1.4.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.18",
